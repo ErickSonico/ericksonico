@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Erick Iram García Velasco.
+I´m studying Computer Science at Facultad de Ciencias, UNAM.
