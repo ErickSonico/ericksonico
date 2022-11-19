@@ -15,6 +15,6 @@ My name is Erick Iram García Velasco.
 
 Call me Erick Sónico or Iramsito, I'll thank you.
 
-#<div style="text-align: center">
+\begin{center}
 ![](https://github.com/ericksonico/ericksonico/blob/325219b7094681124a98b62af742325ac5012d7d/assets/HauntingFilthyAmericanbobtail-size_restricted.gif)
-#<div/>
+\end{center}
