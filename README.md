@@ -6,10 +6,10 @@
 
 
 
-My name is Erick Iram García Velasco.
+My name is Erick.
 - 🎓 I´m studying Computer Science at Facultad de Ciencias, UNAM. 
 - 💾 I´m learning Java, Python, R and C++ right now.
-- 🔭 How to rech me:
+- 🔭 How to reach me:
   - Erick Sónico at Xbox 🎮 
   - Erick García at Fcebook 🔔 
   - @IramsitoHP at Twitter 📱
