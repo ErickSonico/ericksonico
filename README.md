@@ -14,4 +14,4 @@ My name is Erick Iram García Velasco.
 - 🪐Pronouns: he/him/his
 
 Call me Erick Sónico or Iramsito, I'll thank you.
-![](https://github.com/ericksonico/ericksonico/blob/c6f256f97dee30b354ef7492dbf843dc20e6af0d/assets/8.gif)
+![](https://github.com/ericksonico/ericksonico/blob/325219b7094681124a98b62af742325ac5012d7d/assets/HauntingFilthyAmericanbobtail-size_restricted.gif)
