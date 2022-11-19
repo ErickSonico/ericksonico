@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="100" src="https://github.com/ericksonico/ericksonico/blob/325219b7094681124a98b62af742325ac5012d7d/assets/HauntingFilthyAmericanbobtail-size_restricted.gif">
+  <img width="800" height="100" src="https://github.com/ericksonico/ericksonico/blob/8523e698f53b0d34bd16316f1301a0a94f4f9fca/assets/8.gif">
 </p>
 
 ### Hello everyone 🖖
