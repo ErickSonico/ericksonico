@@ -4,7 +4,7 @@
 
 My name is Erick Iram García Velasco.
 - 🎓 I´m studying Computer Science at Facultad de Ciencias, UNAM. 
-- 💾 I´m learning Java, Python, R, C++ and Go right now.
+- 💾 I´m learning Java, Python, R and C++ right now.
 - 🔭 How to rech me:
   - Erick Sónico at Xbox 🎮 
   - Erick García at Fcebook 🔔 
