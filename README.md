@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="800" height="100" src="https://github.com/ericksonico/ericksonico/blob/325219b7094681124a98b62af742325ac5012d7d/assets/HauntingFilthyAmericanbobtail-size_restricted.gif">
+</p>
+
 ### Hello everyone 🖖
 
 
@@ -16,5 +20,5 @@ My name is Erick Iram García Velasco.
 Call me Erick Sónico or Iramsito, I'll thank you.
 
 <p align="center">
-  <img width="800" height="200" src="https://github.com/ericksonico/ericksonico/blob/325219b7094681124a98b62af742325ac5012d7d/assets/HauntingFilthyAmericanbobtail-size_restricted.gif">
+  <img width="800" height="100" src="https://github.com/ericksonico/ericksonico/blob/325219b7094681124a98b62af742325ac5012d7d/assets/HauntingFilthyAmericanbobtail-size_restricted.gif">
 </p>
