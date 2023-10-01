@@ -10,5 +10,9 @@ My name is Erick.
   - erick_sonico@ciencias.unam.mx
 - ⚡Ask me about Structure Datas, Java and Halo Lore. 
 - 🪐Pronouns: he/him/his
+
+
 ![ericksoico GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksonico&show_icons=true&theme=dark)
+
+
 Call me Erick Sónico or Iramsito, I'll thank you.
