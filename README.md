@@ -8,6 +8,5 @@ Ask me about Structure Datas, Java and Halo Lore.
 
 ![ericksoico GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksonico&show_icons=true&theme=dark)
 
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/ericksonico.png)
 
 Call me Erick Sónico or Iramsito, I'll thank you.
